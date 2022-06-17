@@ -2,4 +2,4 @@ Project implemented the model structure with modifications from paper: Learning 
 
 Authors: Cheng Yang*, Jia Zheng*, Xili Dai, Rui Tang, Yi Ma, Xiaojun Yuan.
 
-Git Repo: https://github.com/zhongshuM/596project.git
+Git Repo: https://github.com/CYang0515/NonCuboidRoom.git
